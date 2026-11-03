@@ -8,6 +8,10 @@
 
 The interactive HTML version includes expandable objectives, checkboxes, and browser-local progress tracking.
 
+## Senior C#/.NET Backend Engineer Interview Reference
+
+[Open the senior backend curriculum](https://harishyadav-dev.github.io/Full-Stack-AI-Engineer-Roadmap/curriculum/Senior_CSharp_DotNet_Backend_Interview_Reference.html) · [View the HTML source](curriculum/Senior_CSharp_DotNet_Backend_Interview_Reference.html)
+
 ## Curriculum V2
 
 - **25 domains**
