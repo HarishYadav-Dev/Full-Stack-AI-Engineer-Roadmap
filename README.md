@@ -2,6 +2,12 @@
 
 > A structured, long-term learning reference for becoming a **Full Stack AI Engineer**—from software engineering foundations to production-grade AI systems.
 
+## Interactive curriculum (v4 Reviewed)
+
+[Open the interactive curriculum](https://htmlpreview.github.io/?https://raw.githubusercontent.com/HarishYadav-Dev/Full-Stack-AI-Engineer-Roadmap/main/curriculum/Full_Stack_AI_Engineer_Master_Curriculum_v4_Reviewed.html) · [View the HTML source](curriculum/Full_Stack_AI_Engineer_Master_Curriculum_v4_Reviewed.html)
+
+The interactive HTML version includes expandable objectives, checkboxes, and browser-local progress tracking.
+
 ## Curriculum V2
 
 - **25 domains**
